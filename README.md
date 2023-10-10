@@ -11,3 +11,6 @@ Weights of the multi-head attention U-Net model
 Pre-trained models can be downloaded by following the link below.
 https://drive.google.com/drive/folders/1AwPwklWs525l_V6tcA0HeRdHKLOYX8hK?usp=drive_link
 
+
+
+![Fig8](https://github.com/AniwatJuhongNACK/Multi-head-attention-U-Net-for-MPI-CT-image-segmentation/assets/113541987/afd9e6c9-b1cb-48be-bc3f-90386eb30a64)
