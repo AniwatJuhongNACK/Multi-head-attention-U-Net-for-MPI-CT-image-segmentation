@@ -13,7 +13,9 @@ https://drive.google.com/drive/folders/1AwPwklWs525l_V6tcA0HeRdHKLOYX8hK?usp=dri
 ## Model characterization
 
 ![image](https://github.com/AniwatJuhongNACK/Multi-head-attention-U-Net-for-MPI-CT-image-segmentation/assets/113541987/0c31ac38-35be-4706-9082-beb756361797)
-The performance of models with the different attention heads (Dice/IoU scores vs the number of attention heads plot). 
+
+
+The performance of models with different attention heads (Dice/IoU scores vs the number of attention heads plot). 
 
 
 
@@ -21,4 +23,6 @@ The performance of models with the different attention heads (Dice/IoU scores vs
 
 
 ![Fig8](https://github.com/AniwatJuhongNACK/Multi-head-attention-U-Net-for-MPI-CT-image-segmentation/assets/113541987/afd9e6c9-b1cb-48be-bc3f-90386eb30a64)
+
+
 Visualization semantic segmentation results of the proposed model (4-head attention model) compared to traditional U-net, Trans U-net and the Attention U-Net (1-head attention model). 
