@@ -7,6 +7,6 @@ Magnetic particle imaging (MPI) is an emerging non-invasive molecular imaging mo
 
 
 
-
-
+Pre-trained models can be downloaded by following the link below.
+https://drive.google.com/drive/folders/1AwPwklWs525l_V6tcA0HeRdHKLOYX8hK?usp=drive_link
 
